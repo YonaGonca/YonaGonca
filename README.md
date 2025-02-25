@@ -50,7 +50,5 @@ I'm a passionate developer from Guarenas, Venezuela, currently living in Lisbon,
 ## 🔥 My Stats :
 
 <div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=YonaGonca&theme=highcontrast&border_radius=" alt="GitHub Streak" />
-  </a>
+   [![GitHub Streak](https://streak-stats.demolab.com?user=YonaGonca&theme=highcontrast)](https://git.io/streak-stats)
 </div>
