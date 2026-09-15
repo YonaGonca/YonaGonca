@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Yonathan Gonçaalves</h1>
+<h1 align="center">Hello, I'm Yonathan Gonçalves</h1>
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm a Software Engineer from Guarenas, Venezuela, currently living in Lisbon, Portugal, working at Infra Support AG.<br><br>- 🛠 I build both web and mobile products, from React to Flutter frontends and Flask APIs<br>- ⚡ When I'm not coding, you'll find me geocaching, watching football, or at the cinema</p>
+<p align="left">I'm a Developer from Venezuela, currently living in Lisbon, Portugal, working at Infra Support AG.<br><br>- 🛠 I build both web and mobile products, from React to Flutter frontends and Flask APIs<br>- ⚡ When I'm not coding, you'll find me geocaching, watching football, or at the cinema</p>
 
 ###
 
@@ -34,7 +34,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="fluttlogo"  />
 </div>
-                                                                                                                   ###
 
 <h3 align="left">🛠 Tools</h3>                                                                                      
 <div align="left">
@@ -49,14 +48,6 @@
 
 
 <h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.come=daily&theme=dark&hide_border=false&border_radius=6&order=3" height="150" alt="streak graph"  />
-</div>
-
-###
 
 ###
 
